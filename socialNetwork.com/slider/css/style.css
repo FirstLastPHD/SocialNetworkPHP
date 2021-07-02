@@ -1,0 +1,4 @@
+#slider {position: relative; overflow: hidden;height:300px;}
+#slider img {position:absolute;	margin:0; height:155px;display:none;}
+#imageloader {position:relative; display:block; width: 100%; margin: 0px auto; text-align: center;}
+#imageloader img { position:relative; top:70px; z-index:100; width:128px; height:15px; display:inline;}
